@@ -1,6 +1,6 @@
 H.M.S.A. Senavirathne 
 11316
-Assignment 1
+Assignment 01 - Android App Development SDLC
 
 
 Features:

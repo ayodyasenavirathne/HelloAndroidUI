@@ -1,6 +1,6 @@
 H.M.S.A. Senavirathne 
 11316
-Asssignment 1
+Assignment 1
 
 
 Features:
